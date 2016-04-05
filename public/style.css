@@ -1,0 +1,93 @@
+@font-face {
+  font-family: 'Fabien';
+  src: url('./fabfeltscript-bold.ttf');
+}
+/*@font-face {
+  font-family: 'Fabiolo';
+  src: url('./fabiolo-regular.ttf');
+}*/
+body {
+	background-color: white;
+	font-family: Helvetica;
+	color: grey;
+}
+aside {
+	margin: 0;
+	padding:5px;
+}
+main {
+	margin-top: 3%;
+	background-color: rgba(98, 242, 199, 0.26);
+	width: 100%;
+	height: 85%;
+	text-align: center;
+	border: 1px solid rgba(218, 218, 218, 0.32);
+	text-align: center;
+}
+.question {
+	/*font-family: 'Fabiolo';*/
+	background-color: #F1F1F1; 
+	height: 180px;
+}
+.question > p {
+	padding: 20px;
+}
+.answer {
+	/*font-family: 'Fabiolo';*/
+	background-color: #42dca3;
+	display: inline-block;
+	margin: 20px;
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+}
+.answer:hover {
+	background-color: rgba(249, 255, 198, 0.31);
+}
+.buttons {
+	font-family: 'Fabien';
+	display: inline-block;
+	/*background-color: rgba(98, 242, 199, 0.26);*/
+	/*border: 1px solid rgba(218, 218, 218, 0.32);;*/
+	color: #CAC8C7;
+	text-align: center;
+	height: 30px;
+	width: 80px;
+	font-size: 25px;
+}
+.buttons:hover {	color: grey;
+	text-decoration: line-through;
+	/*background-color: rgba(249, 255, 198, 0.31);*/
+}
+.pointsLevel {
+	padding-right: 50px;
+	font-size: 35px;
+	float: right;
+	color: grey;
+}
+#startGame {
+	font-family: 'Fabien';
+	position: absolute;
+    top: 50%;
+    left: 50%;
+	/*background-color: rgba(249, 255, 198, 0.31);*/
+	/*border: 1px solid rgba(218, 218, 218, 0.32);*/
+	color: #CAC8C7;
+	text-align: center;
+	height: 60px;
+	width: 300px;
+	font-size: 40px;
+	-webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+#startGame:hover {
+	color: grey;
+	text-decoration: line-through;
+	/*background-color: #42dca3;*/
+}
+#gamePopUp {
+	position: fixed;
+	width: 500px;
+	height: 500px;
+	background-color: rgba(249, 255, 198, 0.31);
+}
