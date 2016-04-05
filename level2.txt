@@ -1,0 +1,120 @@
+{
+  "levelId": "2",
+  "questions": [
+    {
+      "questionId": "1",
+      "question": "level2pic1",
+      "rightAnswerId": "3",
+      "answers": [
+        {
+          "answerId": "1",
+          "answer": "Returns the length of the string"
+        },
+        {
+          "answerId": "2",
+          "answer": "Returns the string"
+        },
+        {
+          "answerId": "3",
+          "answer": "Returns the reversed string"
+        },
+        {
+          "answerId": "4",
+          "answer": "Returns the concatenated string"
+        }
+      ]
+    },
+    {
+      "question": "level2pic2",
+      "questionId": "2",
+      "rightAnswerId": "2",
+      "answers": [
+        {
+          "answerId": "1",
+          "answer": "Check if the length of the array is equal to the diven number"
+        },
+        {
+          "answerId": "2",
+          "answer": "Check if the given number occurs in the array"
+        },
+        {
+          "answerId": "3",
+          "answer": "Check if each element in the array is equal to the given number"
+        },
+        {
+          "answerId": "4",
+          "answer": "None of the above"
+        }
+      ]
+    },
+    {
+      "questionId": "3",
+      "question": "level2pic3",
+      "rightAnswerId": "1",
+      "answers": [
+        {
+          "answerId": "1",
+          "answer": "Reverses the list"
+        },
+        {
+          "answerId": "2",
+          "answer": "Adds a new node to the list"
+        },
+        {
+          "answerId": "3",
+          "answer": "Traverse the list"
+        },
+        {
+          "answerId": "4",
+          "answer": "Deletes a node from the list"
+        }
+      ]
+    },
+    {
+      "questionId": "4",
+      "question": "level2pic4",
+      "rightAnswerId": "2",
+      "answers": [
+        {
+          "answerId": "1",
+          "answer": "Check if strings are anagrams of each other"
+        },
+        {
+          "answerId": "2",
+          "answer": "Check if a string is a palindrome"
+        },
+        {
+          "answerId": "3",
+          "answer": "Reverses a string"
+        },
+        {
+          "answerId": "4",
+          "answer": "Checks if strings are isomorphic to each other"
+        }
+      ]
+    },
+    {
+      "questionId": "5",
+      "question": "level2pic5",
+      "rightAnswerId": "4",
+      "answers": [
+        {
+          "answerId": "1",
+          "answer": "Returns the reversed array"
+        },
+        {
+          "answerId": "2",
+          "answer": "Returns the elements on even positions in an array"
+        },
+        {
+          "answerId": "3",
+          "answer": "Returns the sum of the elements in the array"
+        },
+        {
+          "answerId": "4",
+          "answer": "Returns the elements on odd poditions in an array"
+        }
+      ]
+    }
+  ]
+}
