@@ -1,0 +1,120 @@
+{
+  "levelId": "3",
+  "questions": [
+    {
+      "questionId": "4",
+      "question": "A non-empty binary tree is balanced if",
+      "rightAnswerId": "3",
+      "answers": [
+        {
+          "answerId": "1",
+          "answer": "level3q1ans1"
+        },
+        {
+          "answerId": "2",
+          "answer": "level3q1ans2"
+        },
+        {
+          "answerId": "3",
+          "answer": "level3q1ans3"
+        },
+        {
+          "answerId": "4",
+          "answer": "level3q1ans4"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following sorting algorithms can be used to sort a random linked list with minimum time complexity?",
+      "questionId": "2",
+      "rightAnswerId": "2",
+      "answers": [
+        {
+          "answerId": "1",
+          "answer": "Insertion Sort"
+        },
+        {
+          "answerId": "2",
+          "answer": "Merge Sort"
+        },
+        {
+          "answerId": "3",
+          "answer": "Quick Sort"
+        },
+        {
+          "answerId": "4",
+          "answer": "Heap Sort"
+        }
+      ]
+    },
+    {
+      "questionId": "3",
+      "question": "Which of the following operations is not O(1) for an array of sorted data. You may assume that array elements are distinct.",
+      "rightAnswerId": "1",
+      "answers": [
+        {
+          "answerId": "1",
+          "answer": "Delete an element"
+        },
+        {
+          "answerId": "2",
+          "answer": "Find the i-th largest element"
+        },
+        {
+          "answerId": "3",
+          "answer": "Find the i-th smallest element"
+        },
+        {
+          "answerId": "4",
+          "answer": "All of the above"
+        }
+      ]
+    },
+    {
+      "questionId": "4",
+      "question": "level3q4",
+      "rightAnswerId": "3",
+      "answers": [
+        {
+          "answerId": "1",
+          "answer": "codechallengecodechallenge"
+        },
+        {
+          "answerId": "2",
+          "answer": "codechallenge"
+        },
+        {
+          "answerId": "3",
+          "answer": "egnellahcedoc"
+        },
+        {
+          "answerId": "4",
+          "answer": "egnellahcedocegnellahcedoc"
+        }
+      ]
+    },
+    {
+      "questionId": "5",
+      "question": "level3q5",
+      "rightAnswerId": "3",
+      "answers": [
+        {
+          "answerId": "1",
+          "answer": "Prints numbers from 0 to n-1"
+        },
+        {
+          "answerId": "2",
+          "answer": "Prints numbers from n-1 to 0"
+        },
+        {
+          "answerId": "3",
+          "answer": "Prints first n Fibonacci numbers"
+        },
+        {
+          "answerId": "4",
+          "answer": "Prints first n Fibonacci numbers in reverse order"
+        }
+      ]
+    }
+  ]
+}
