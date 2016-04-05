@@ -1,0 +1,120 @@
+{
+  "levelId": "1",
+  "questions": [
+    {
+      "questionId": "1",
+      "question": "Which data structure is used in redo-undo feature?",
+      "rightAnswerId": "1",
+      "answers": [
+        {
+          "answerId": "1",
+          "answer": "Stack"
+        },
+        {
+          "answerId": "2",
+          "answer": "Queue"
+        },
+        {
+          "answerId": "3",
+          "answer": "Tree"
+        },
+        {
+          "answerId": "4",
+          "answer": "Graph"
+        }
+      ]
+    },
+    {
+      "questionId": "2",
+      "question": "Which data structure is most efficient to find the top 10 largest items out of 1 million items stored in file?",
+      "rightAnswerId": "3",
+      "answers": [
+        {
+          "answerId": "1",
+          "answer": "Max heap"
+        },
+        {
+          "answerId": "2",
+          "answer": "BST"
+        },
+        {
+          "answerId": "3",
+          "answer": "Min heap"
+        },
+        {
+          "answerId": "4",
+          "answer": "Sorted array"
+        }
+      ]
+    },
+    {
+      "questionId": "3",
+      "question": "The best data structure to check whether an arithmetic expression has balanced parentheses is a ",
+      "rightAnswerId": "2",
+      "answers": [
+        {
+          "answerId": "1",
+          "answer": "List"
+        },
+        {
+          "answerId": "2",
+          "answer": "Stack"
+        },
+        {
+          "answerId": "3",
+          "answer": "Tree"
+        },
+        {
+          "answerId": "4",
+          "answer": "Queue"
+        }
+      ]
+    },
+    {
+      "questionId": "4",
+      "question": "Which among the following data structures is best suited for storing very large numbers (numbers that cannot be stored in long long int). Following are the operations needed for these large numbers.",
+      "rightAnswerId": "3",
+      "answers": [
+        {
+          "answerId": "1",
+          "answer": "Hash"
+        },
+        {
+          "answerId": "2",
+          "answer": "Array"
+        },
+        {
+          "answerId": "3",
+          "answer": "Linked list"
+        },
+        {
+          "answerId": "4",
+          "answer": "Binary tree"
+        }
+      ]
+    },
+    {
+      "questionId": "5",
+      "question": "Which of the following data structures is best suited for efficient implementation of priority queue?",
+      "rightAnswerId": "4",
+      "answers": [
+        {
+          "answerId": "1",
+          "answer": "Array"
+        },
+        {
+          "answerId": "2",
+          "answer": "Linked List"
+        },
+        {
+          "answerId": "3",
+          "answer": "Stack"
+        },
+        {
+          "answerId": "4",
+          "answer": "Heap"
+        }
+      ]
+    }
+  ]
+}
