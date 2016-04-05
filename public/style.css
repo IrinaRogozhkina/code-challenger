@@ -2,6 +2,10 @@
   font-family: 'Fabien';
   src: url('./fabfeltscript-bold.ttf');
 }
+/*@font-face {
+  font-family: 'Fabiolo';
+  src: url('./fabiolo-regular.ttf');
+}*/
 body {
 	background-color: white;
 	font-family: Helvetica;
@@ -21,6 +25,7 @@ main {
 	text-align: center;
 }
 .question {
+	/*font-family: 'Fabiolo';*/
 	background-color: #F1F1F1; 
 	height: 180px;
 }
@@ -28,11 +33,13 @@ main {
 	padding: 20px;
 }
 .answer {
+	/*font-family: 'Fabiolo';*/
 	background-color: #42dca3;
 	display: inline-block;
 	margin: 20px;
 	height: 200px;
 	width: 200px;
+	border-radius: 50%;
 }
 .answer:hover {
 	background-color: rgba(249, 255, 198, 0.31);
@@ -48,8 +55,8 @@ main {
 	width: 80px;
 	font-size: 25px;
 }
-.buttons:hover {
-	color: grey;
+.buttons:hover {	color: grey;
+	text-decoration: line-through;
 	/*background-color: rgba(249, 255, 198, 0.31);*/
 }
 .pointsLevel {
@@ -63,8 +70,8 @@ main {
 	position: absolute;
     top: 50%;
     left: 50%;
-	background-color: rgba(249, 255, 198, 0.31);
-	border: 1px solid rgba(218, 218, 218, 0.32);
+	/*background-color: rgba(249, 255, 198, 0.31);*/
+	/*border: 1px solid rgba(218, 218, 218, 0.32);*/
 	color: #CAC8C7;
 	text-align: center;
 	height: 60px;
@@ -74,8 +81,9 @@ main {
     transform: translate(-50%, -50%);
 }
 #startGame:hover {
-	color: white;
-	background-color: #42dca3;
+	color: grey;
+	text-decoration: line-through;
+	/*background-color: #42dca3;*/
 }
 #gamePopUp {
 	position: fixed;
